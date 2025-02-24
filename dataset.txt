@@ -1,0 +1,3 @@
+train_set = /kaggle/input/pro-batte-25-ml-comp/train_set.csv
+test_set = /kaggle/input/pro-batte-25-ml-comp/test_set.csv
+sample_solution = /kaggle/input/pro-batte-25-ml-comp/sample_solution.csv
