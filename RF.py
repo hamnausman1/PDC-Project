@@ -41,7 +41,7 @@ df_test_encoded = ss.transform(df_test_encoded)
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-model = RandomForestClassifier(n_estimators=200, max_depth=5, min_samples_split=400, random_state=42)
+model = RandomForestClassifier(n_estimators=4000, max_depth=5, min_samples_split=400, random_state=42)
 
 model.fit(X_train, y_train)
 y_test_pred = model.predict(X_test)
