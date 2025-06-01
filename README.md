@@ -19,3 +19,8 @@ The project is part of a Parallel and Distributed Computing course, with the obj
 - Analyze the computational efficiency of each algorithm.
 
 - Optimize the code by leveraging parallel computing techniques such as multi-threading and multi-processing.
+
+
+## Implementation
+
+Following the pseudocode present in the base papers, we implemented it in Python hoping to see the results reflected. We have referenced the papers in the report for this project. The methodology is elaborately explained along with the results we achieved after experimenting on different datasets ourselves. 
