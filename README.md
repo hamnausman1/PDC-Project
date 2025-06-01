@@ -24,3 +24,7 @@ The project is part of a Parallel and Distributed Computing course, with the obj
 ## Implementation
 
 Following the pseudocode present in the base papers, we implemented it in Python hoping to see the results reflected. We have referenced the papers in the report for this project. The methodology is elaborately explained along with the results we achieved after experimenting on different datasets ourselves. 
+
+## Dataset
+
+The implementation was tested on CIFAR-10 and MNIST dataset
